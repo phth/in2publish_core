@@ -67,6 +67,7 @@ class GroupProcessor extends AbstractProcessor
         self::ALLOWED,
         self::FOREIGN_TABLE,
         self::MM,
+        self::MM_OPPOSITE_FIELD,
         self::MM_HAS_UID_FIELD,
         self::MM_MATCH_FIELDS,
         self::MM_TABLE_WHERE,
